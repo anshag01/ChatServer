@@ -1,5 +1,5 @@
 # ChatServer
-A chat server implemented in C
+A chat server implemented in C. Code can be sent through an invitation to a private repository on request.
 
 ## Definitions and Notes
 
